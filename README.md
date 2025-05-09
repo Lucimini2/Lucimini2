@@ -22,6 +22,14 @@
 ![Helm](https://img.shields.io/badge/Helm-0F56A1?logo=helm&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Minikube](https://img.shields.io/badge/Minikube-00B4A2?logo=minikube&logoColor=white&style=for-the-badge)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge)
+![Filebeat](https://img.shields.io/badge/Filebeat-005571?logo=elastic&logoColor=white&style=for-the-badge)
+![WSL](https://img.shields.io/badge/WSL-4A90E2?logo=microsoft-windows&logoColor=white&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge)
+![Logstash](https://img.shields.io/badge/Logstash-005571?logo=elastic&logoColor=white&style=for-the-badge)
+![Kiali](https://img.shields.io/badge/Kiali-3275D1?logo=kiali&logoColor=white&style=for-the-badge)
+
 
 ---
 
