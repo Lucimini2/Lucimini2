@@ -29,7 +29,9 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?logo=elastic&logoColor=white&style=for-the-badge)
 ![Kiali](https://img.shields.io/badge/Kiali-3275D1?logo=kiali&logoColor=white&style=for-the-badge)
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ---
 
