@@ -20,6 +20,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=for-the-badge)
 ![Helm](https://img.shields.io/badge/Helm-0F56A1?logo=helm&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Minikube](https://img.shields.io/badge/Minikube-00B4A2?logo=minikube&logoColor=white&style=for-the-badge)
 
 ---
 
