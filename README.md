@@ -7,7 +7,7 @@
 
 ### 🧰 Tecnologías que uso
 
-🐳 [Docker](https://www.docker.com/) · ☸️ [Kubernetes](https://kubernetes.io/) · ☁️ [AWS](https://aws.amazon.com/) · 🔍 [Elasticsearch](https://www.elastic.co/elasticsearch/) · 📊 [Prometheus](https://prometheus.io/) · 🐬 [MySQL](https://www.mysql.com/) · 🌐 [Nginx](https://www.nginx.com/) ·
+🐳 [Docker](https://www.docker.com/) · ☸️ [Kubernetes](https://kubernetes.io/) · ☁️ [AWS](https://aws.amazon.com/) · 📊 [Prometheus](https://prometheus.io/) · 🐬 [MySQL](https://www.mysql.com/) · 🌐 [Nginx](https://www.nginx.com/) ·
 
 ---
 
